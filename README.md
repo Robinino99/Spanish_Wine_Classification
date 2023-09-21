@@ -56,10 +56,15 @@ Based on the classification exercise, we opted to train, evaluate and test the f
 * Decision Tree Classifier
 
 ### Metrics
-* Logistic pre tune:
+
+**Logistic pre tune:**
+
 ![image](https://github.com/Robinino99/Spanish_Wine_Classification/assets/138812946/f392a8b0-accf-4a8f-acb9-da20b52a1e40)
 
-* Logistic post tune:
+
+
+
+**Logistic post tune:**
   ![image](https://github.com/Robinino99/Spanish_Wine_Classification/assets/138812946/7237bf03-7b19-421b-9232-04718c28d790)
 
 
